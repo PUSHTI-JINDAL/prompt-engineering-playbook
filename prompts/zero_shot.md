@@ -5,11 +5,17 @@ Write a short poem about the friendship between the sun and the moon.
 
 **AI Output:**
 The sun wakes up with golden cheer,
+
 The moon appears when night is near.
+
 Though far apart, they share the sky,
+
 Waving to each as time drifts by.
+
 Their friendship shines both day and night,
+
 In silver dreams and golden light.
+
 
 
 
